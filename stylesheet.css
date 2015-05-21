@@ -1,0 +1,32 @@
+div.calculator-container {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color: white;
+	height: 320px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	font-size: 18;
+}
+
+#button {
+	width: 40px;
+	height: 40px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+#textbutton {
+	width: 130px;
+	height: 30px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
